@@ -27,7 +27,8 @@ yarn-error.log*
 next-env.d.ts
 
 /data
-/speed_dating_finalDATA.xlsx
-/speed_dating_selected_features.csv
-/speed_dating_test.csv
-/speed_dating_train.csv
+*.csv
+*.xlsx
+*.xls
+
+
